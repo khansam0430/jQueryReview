@@ -1,4 +1,4 @@
-console.log('yo');
+console.log('yoyoyo');
 //testing if script is correctly linked to html.
 
 $( document ).ready( onReady );
