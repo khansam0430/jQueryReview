@@ -1,0 +1,12 @@
+body{
+    background-color: lightsteelblue;
+}
+
+.teal{
+    background-color: teal;
+}
+
+.wrapper{
+    height: 100pt;
+    display: block;
+}
